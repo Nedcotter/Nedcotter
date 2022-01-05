@@ -1,7 +1,8 @@
 
 ![Ned's github stats](https://github-readme-stats.vercel.app/api?username=Nedcotter&count_private=true&show_icons=true&theme=chartreuse-dark)
 
-If your interested in donating towards any of my projects:
+If your interested in donating towards any of my projects i have a crypto wallet here:
+
 bc1qwcka8cswaxx8sf2lt9d6drzvku0qpwg7sh0qkj
 
 
