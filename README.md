@@ -1,26 +1,16 @@
 
 ![Ned's github stats](https://github-readme-stats.vercel.app/api?username=Nedcotter&count_private=true&show_icons=true&theme=chartreuse-dark)
 
-If your interested in donating towards any of my projects i have a crypto wallet here:
-
-bc1qwcka8cswaxx8sf2lt9d6drzvku0qpwg7sh0qkj
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Nedcotter}/count.svg)
 
+"To tear down and destroy is of no consequence nor quality,
+to create is divine"
 
-
-<!--
-**Nedcotter/Nedcotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a personal assistant "Nino" named after one of the quintessential quintuplets from the anime
+- 🌱 I’m currently learning Natural Language Proccessing and speech prediction
+- 👯 I’m looking to collaborate on any projects really, preferably automation and machine learning related as thats my favourite field XD
+- 🤔 I’m looking for help with Nino
+- 💬 Ask me about New releases for projects
+- 📫 How to reach me: My Discord is M0rtem#6969
